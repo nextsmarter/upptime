@@ -31,6 +31,20 @@ sites:
     url: https://korintech.vn/
   - name: COI Event
     url: https://sukiencoi.com/
+  - name: Pham Hai Nam
+    url: https://phamhainam.com/
+  - name: Mai Linh Mart
+    url: https://mailinhmart.com/
+  - name: Next Smarter
+    url: https://nextsmarter.com/
+  - name: Thi Cong Pro
+    url: https://thicongpro.com/
+  - name: Tinh Do Tong
+    url: https://tinhdotong.com/
+  - name: LEARNS
+    url: https://learns.vn/
+  - name: Be Tong Bao Nguyen
+    url: https://betongbaonguyen.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
