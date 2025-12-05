@@ -3,19 +3,34 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Quà Tặng 3A
+    url: https://automation.nextsmarter.com
+  - name: LP Quà Tặng 3A
+    url: https://tuvan.quatang3a.com/qua-tang-doanh-nghiep
+  - name: Nhãn Mác 3A
+    url: https://nhanmac3a.vn/
+  - name: LP Nhãn Mác 3A
+    url: https://temkimloai.nhanmac3a.vn/
+  - name: Tem Nhãn 3A Com
+    url: https://temnhan3a.com/
+  - name: Tem Nhãn 3A Vn
+    url: https://temnhan3a.vn/
+  - name: Dạ Quang 3A
+    url: https://daquang3a.vn/
+  - name: Biển Báo 3A
+    url: https://bienbao3a.com/
+  - name: Biển Báo 3A
+    url: https://brandcharger.vn/
+  - name: Make Your Sign
+    url: https://makeyoursign.vn/
+  - name: Vietbrandgift
+    url: https://vietbrandgift.vn/
+  - name: Going Green
+    url: https://goinggreen.vn/
+  - name: Korintech
+    url: https://korintech.vn/
+  - name: COI Event
+    url: https://sukiencoi.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
