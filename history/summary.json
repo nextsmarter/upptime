@@ -40,7 +40,7 @@
     "url": "https://nhanmac3a.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/nhanmac3a.vn.ico",
     "slug": "nhan-mac-3-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1498,
     "timeDay": 1387,
-    "timeWeek": 1482,
+    "timeWeek": 1491,
     "timeMonth": 1498,
     "timeYear": 1498,
     "dailyMinutesDown": {}
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 1881,
     "timeDay": 1733,
-    "timeWeek": 1850,
+    "timeWeek": 1869,
     "timeMonth": 1881,
     "timeYear": 1881,
     "dailyMinutesDown": {}
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 1576,
     "timeDay": 1467,
-    "timeWeek": 1569,
+    "timeWeek": 1586,
     "timeMonth": 1576,
     "timeYear": 1576,
     "dailyMinutesDown": {}
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 1452,
     "timeDay": 1377,
-    "timeWeek": 1407,
+    "timeWeek": 1426,
     "timeMonth": 1452,
     "timeYear": 1452,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 1562,
     "timeDay": 1435,
-    "timeWeek": 1572,
+    "timeWeek": 1591,
     "timeMonth": 1562,
     "timeYear": 1562,
     "dailyMinutesDown": {}
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 1972,
     "timeDay": 1688,
-    "timeWeek": 1844,
+    "timeWeek": 1845,
     "timeMonth": 1972,
     "timeYear": 1972,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 2432,
     "timeDay": 2188,
-    "timeWeek": 2324,
+    "timeWeek": 2348,
     "timeMonth": 2432,
     "timeYear": 2432,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 1288,
     "timeDay": 1236,
-    "timeWeek": 1270,
+    "timeWeek": 1284,
     "timeMonth": 1288,
     "timeYear": 1288,
     "dailyMinutesDown": {}
